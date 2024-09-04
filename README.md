@@ -11,4 +11,4 @@ Para la actualizacion de el repo no olvidar los comandos:
 - git status  
 - git add .  
 - git commit -m "ingresa un numero de version"
-- git push -u origin main 
+- git push
