@@ -16,9 +16,7 @@ public class VariableJava {
     System.out.print("Ingresa tu nombre: ");
     nombre= entrada.nextLine();
     
-     System.out.print("Hola ");
-     System.out.print(nombre);
-     System.out.print(" ¿Cómo estas?");
+     System.out.print("Hola "+nombre+" ¿Cómo estás?");
     }
     
 }
