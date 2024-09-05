@@ -3,6 +3,7 @@ Para correr los códigos nos situamos en la carpeta dónde se encuentra el jar y
 - java -jar "arrastramos el jar para copiar la dirección"
 - Damos enter.
 
+##CTUALIZAR RAMAS LOCALES Y REMOTAS
 Usar los siguientes comandos antes de iniciar.
 - git fetch
 - git merge
